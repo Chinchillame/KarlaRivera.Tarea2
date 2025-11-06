@@ -3,7 +3,10 @@
 Ejercicio del curso de introducción a HTML y CSS.
 
 ## 🎯 Objetivo
-Recrear una página web utilizando las etiquetas básicas de HTML y aplicar estilos con CSS.
+Recrear una página web utilizando las etiquetas básicas de HTML y aplicar estilos con CSS.   
+
+## 🔗 **Visualiza el resultado aquí:**  
+👉 [Sitio publicado en GitHub Pages](https://chinchillame.github.io/KarlaRivera.Tarea2/)
 
 ## 📋 Requerimientos principales
 1. Utilizar etiquetas `div`, `h1` a `h4`, e `img`.
@@ -15,5 +18,5 @@ Recrear una página web utilizando las etiquetas básicas de HTML y aplicar esti
 - `css/style.css` → Estilos principales.
 - `img/` → imágenes de la página.
 
-## 🧠 Resultado esperado
+## 🧠 Diseño que se debe recrear
 <img width="557" height="764" alt="referencia" src="https://github.com/user-attachments/assets/41f6c82b-44bc-4784-92f4-94ff1b7fd93b" />
