@@ -1,1 +1,165 @@
+.container{
+    max-width: 700px;   
+    width: 100%;        
+    margin: 0 auto; 
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.box-row {
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+}
+
+.box-column {
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+
+.header {
+    background-color: #c40000;
+    width: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    min-height: 100px; 
+}
+
+.title-header{
+    margin: 0;
+    height: 100%;
+    font-size: 5.5rem;
+    align-items: center;
+    color: white;
+    padding-left: 5px;
+}
+
+.date {
+    align-items: center;
+    justify-content: center;
+    min-width: 56px; 
+    color: #ffcc00;
+}
+
+.dayOfMonth {
+    font-size: 4rem;
+    margin: 0;
+}
+
+.dayOfWeek {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.headline{
+    align-items: center;
+    margin: 0;
+}
+
+.headline h3{
+    color: #c40000;
+}
+
+.title-headline{
+    margin:0;
+    font-size: 1.2rem;
+    padding-left: 5px;
+}
+
+.headline-image{
+    width:70%;
+    height:auto;
+    align-self: center;
+}
+
+.new-red{
+    font-size: 15px;
+    border-left: 5px solid #c40000;
+    margin-bottom: 10px;
+    flex-direction: column;
+    padding-left: 5px;
+}
+
+.new-white{
+    font-size: 15px;
+    border-left: 5px solid #c40000;
+    margin-bottom: 10px;
+    flex-direction: column;
+    padding-left: 5px;
+    background-color: white;
+    color: #c40000;
+}
+
+.new-yellow{
+    font-size: 15px;
+    border-left: 5px solid #c40000;
+    margin-bottom: 10px;
+    flex-direction: column;
+    padding-left: 5px;
+    background-color: #ffcc00;
+}
+
+.new-outline{
+    font-size: 9px;
+    text-align: right;
+}
+
+.new-blue{
+    border-left: 5px solid darkcyan;
+    padding-left: 5px;
+    flex-direction: column;
+}
+
+.new-pink{
+    align-items: center;
+}
+
+.new-pink div{
+    background-color: #DD2373;
+}
+
+.new-pink h4{
+    color: white;
+    padding: 0 5px;
+}
+
+.new-more-info{
+    font-weight: bold;
+    color: #007b83;
+}
+
+.new-outline span{
+    color:#c40000;
+}
+
+.divider-horizontal{
+    border-bottom: 3px solid #cccccc;
+    padding-bottom: 5px;
+}
+
+.divider-vertical{
+    border-right: 5px solid #c40000;
+    padding-right: 5px;
+}
+
+.text-secondary{
+    font-size: 0.6rem;
+}
+
+.text-primary{
+    font-size: 3.6rem;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.background-white{
+    background-color: white;
+}
+
+.text-white{
+    color: white;
+}
 
